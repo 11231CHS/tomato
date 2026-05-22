@@ -111,7 +111,7 @@ soil_temp = st.number_input(
     "🌿 내부 CO₂ (ppm)",
     min_value=0.0,
     max_value=5000.0,
-    value=800.0,
+    value=400.0,
     step=10.0
 )
 
